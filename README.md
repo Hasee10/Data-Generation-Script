@@ -2,7 +2,7 @@
 
 ## 🧭 Overview
 
-This project generates a large-scale, synthetic logistics dataset designed for data analytics, visualization, and business intelligence tools — especially for platforms like Power BI. The output is an Excel workbook titled:
+This project generates a large-scale, synthetic logistics dataset designed for data analytics, visualization, and business intelligence tools especially for platforms like Power BI. The output is an Excel workbook titled:
 
 ```
 MNC_Logistics_Dataset.xlsx
